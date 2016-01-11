@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0.1.0 - First Release	/Users/liangqingfeng/github/lua-debug/CHANGELOG.md	/^## 0.1.0 - First Release$/;"	function	line:1
+# Keybindings require three things to be fully defined	/Users/liangqingfeng/github/lua-debug/keymaps/lua-debug.cson	/^# Keybindings require three things to be fully defined: A selector that is$/;"	function	line:1
+# https	/Users/liangqingfeng/github/lua-debug/keymaps/lua-debug.cson	/^# https:\/\/atom.io\/docs\/latest\/behind-atom-keymaps-in-depth$/;"	function	line:9
+atom-workspace	/Users/liangqingfeng/github/lua-debug/keymaps/lua-debug.cson	/^'atom-workspace':$/;"	function	line:10
+ctrl-alt-o	/Users/liangqingfeng/github/lua-debug/keymaps/lua-debug.cson	/^  'ctrl-alt-o': 'lua-debug:toggle'$/;"	function	line:11
+# See https	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^# See https:\/\/atom.io\/docs\/latest\/hacking-atom-package-word-count#menus for more details$/;"	function	line:1
+context-menu	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^'context-menu':$/;"	function	line:2
+atom-text-editor	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^  'atom-text-editor': [$/;"	function	line:3
+label	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^      'label': 'Toggle lua-debug'$/;"	function	line:5
+command	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^      'command': 'lua-debug:toggle'$/;"	function	line:6
+menu	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^'menu': [$/;"	function	line:9
+label	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^    'label': 'Packages'$/;"	function	line:11
+submenu	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^    'submenu': [$/;"	function	line:12
+label	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^      'label': 'lua-debug'$/;"	function	line:13
+submenu	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^      'submenu': [$/;"	function	line:14
+label	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^          'label': 'Toggle'$/;"	function	line:16
+command	/Users/liangqingfeng/github/lua-debug/menus/lua-debug.cson	/^          'command': 'lua-debug:toggle'$/;"	function	line:17
+lua-debug package	/Users/liangqingfeng/github/lua-debug/README.md	/^# lua-debug package$/;"	function	line:1
+LuaDebug	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-spec.coffee	/^describe "LuaDebug", ->$/;"	function	line:8
+when the lua-debug:toggle event is triggered	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-spec.coffee	/^  describe "when the lua-debug:toggle event is triggered", ->$/;"	function	line:15
+hides and shows the modal panel	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-spec.coffee	/^    it "hides and shows the modal panel", ->$/;"	function	line:16
+hides and shows the view	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-spec.coffee	/^    it "hides and shows the view", ->$/;"	function	line:39
+LuaDebugView	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-view-spec.coffee	/^describe "LuaDebugView", ->$/;"	function	line:3
+has one valid test	/Users/liangqingfeng/github/lua-debug/spec/lua-debug-view-spec.coffee	/^  it "has one valid test", ->$/;"	function	line:4
+.lua-debug	/Users/liangqingfeng/github/lua-debug/styles/lua-debug.less	/^.lua-debug {$/;"	function	line:7
